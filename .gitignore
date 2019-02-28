@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+*~
+
+/src/plots
+/src/results
+/src/meshes
