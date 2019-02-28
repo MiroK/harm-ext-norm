@@ -1,0 +1,17 @@
+# DOMAIN DEPENDENCE OF NORM OF HARMONIC EXTENSION OPERATOR
+
+We consider domain $\Omega$ with a part of the boundary $\Gamma$ where some 
+boundary data is given. On $\partial\Omega\setminus\Gamma$ there is 0 
+Dirichlet condition. Given the data $g\in H^{1/2}(\Gamma)$ we consider a 
+map $E: H^{1/2}(\Gamma)\rightarrow H^1(\Omega)$ and the question of how $\lVert E \rVert$ 
+depends on the geometry.
+
+## How
+The idea is that the norm is related to extremal eigenvalues of certain eigenvalue problems; 
+in particular the Stekhlov problem and the problem of spectrum of Schur complement of the 
+Babuska's mixed FEM for enforcing Dirichlet bcs by Lagrange multipliers.
+
+## Roadmap 
+- We established the relation between the eigenvalues of the two problems and thus can
+  say something about trace inequality
+- It is still not 100% clear how the above related to $E$
